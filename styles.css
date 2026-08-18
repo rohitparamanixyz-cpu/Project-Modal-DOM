@@ -78,7 +78,7 @@ body {
 
 @keyframes animatemodal {
     from {
-        top: 999px;
+        top: -300px;
         opacity: 0;
     }
 
